@@ -13,6 +13,7 @@
 		360447FB29E012F30057962E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 360447F929E012F30057962E /* Main.storyboard */; };
 		360447FD29E012F40057962E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 360447FC29E012F40057962E /* Assets.xcassets */; };
 		3604480029E012F40057962E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 360447FE29E012F40057962E /* LaunchScreen.storyboard */; };
+		3604480829E0135C0057962E /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3604480729E0135C0057962E /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		360447FC29E012F40057962E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		360447FF29E012F40057962E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3604480129E012F40057962E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3604480729E0135C0057962E /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				360447F529E012F30057962E /* SceneDelegate.swift */,
 				360447F729E012F30057962E /* ViewController.swift */,
 				360447F929E012F30057962E /* Main.storyboard */,
+				3604480729E0135C0057962E /* alarm_sound.mp3 */,
 				360447FC29E012F40057962E /* Assets.xcassets */,
 				360447FE29E012F40057962E /* LaunchScreen.storyboard */,
 				3604480129E012F40057962E /* Info.plist */,
@@ -127,6 +130,7 @@
 			files = (
 				3604480029E012F40057962E /* LaunchScreen.storyboard in Resources */,
 				360447FD29E012F40057962E /* Assets.xcassets in Resources */,
+				3604480829E0135C0057962E /* alarm_sound.mp3 in Resources */,
 				360447FB29E012F30057962E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
